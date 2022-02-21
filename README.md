@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yohana Herrero, a PhD student at the Leibniz-Institut für Astrophysik Potsdam (AIP) in Prof. Dr. Lutz Wisotzki’s group.
-- 👀 I’m interested in astrophysics, data analysis, statistics, code development in python, etc
-- 🌱 I’m currently learning machine learning and improving my GUI development skills.
+- 👀 I’m interested in astrophysics, data analysis, statistics, code and tool development, etc
+- 🌱 I’m currently digging into the machine learning world and improving my GUI development skills.
 - 📫 You can reach me via email: yherreroalonso@aip.de
 
 <!---
